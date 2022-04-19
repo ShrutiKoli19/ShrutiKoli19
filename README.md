@@ -1,4 +1,4 @@
-👋 Hi, I’m Shruti Koli
+# 👋 Hi, I’m Shruti Koli
 - 🌱 I’m currently learning Web-Development
 - 📫 How to reach me: https://www.linkedin.com/in/shruti-koli-6133391bb/
 
